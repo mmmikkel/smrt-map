@@ -1,0 +1,13 @@
+<svg width="2100" height="100" viewBox="0 0 2100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Test map">
+<circle id="Station EW5" cx="2050" cy="50" r="50" fill="#FF0000"/>
+<line id="Track EW4-EW5" x1="1600" y1="45" x2="2000" y2="45" stroke="black" stroke-width="10"/>
+<circle id="Station EW4" cx="1550" cy="50" r="50" fill="#FF0000"/>
+<line id="Track EW3-EW4" x1="1100" y1="45" x2="1500" y2="45" stroke="black" stroke-width="10"/>
+<circle id="Station EW3" cx="1050" cy="50" r="50" fill="#FF0000"/>
+<line id="Track EW2-EW3" x1="600" y1="45" x2="1000" y2="45" stroke="black" stroke-width="10"/>
+<circle id="Station EW2" cx="550" cy="50" r="50" fill="#FF0000"/>
+<line id="Track EW1-EW2" x1="100" y1="45" x2="500" y2="45" stroke="black" stroke-width="10"/>
+<circle id="Station EW1" cx="50" cy="50" r="50" fill="#FF0000"/>
+</g>
+</svg>
