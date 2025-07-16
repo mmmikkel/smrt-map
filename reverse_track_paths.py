@@ -58,15 +58,20 @@ for path_elem in g_track.xpath('./svg:path', namespaces=ns):
     if not path_id or '-' not in path_id:
         continue
     from_station, to_station = path_id.split('-', 1)
+    # Only debug for EW32-EW33 and EW33-EW32
+    debug = path_id in ('EW32-EW33', 'EW33-EW32')
     # Get station positions
     from_groups = find_station_group(from_station)
     to_groups = find_station_group(to_station)
     if not from_groups or not to_groups:
+        if debug:
+            print(f"Could not find group for {from_station} or {to_station}")
         continue  # skip if station group not found
     from_pos = get_station_pos(from_groups[0])
     to_pos = get_station_pos(to_groups[0])
     if from_pos is None or to_pos is None:
-        print(f"Warning: Skipping {path_id} due to missing station position.")
+        if debug:
+            print(f"Could not extract position for {from_station} or {to_station}")
         continue
     # Parse path
     d = path_elem.get('d')
@@ -76,10 +81,20 @@ for path_elem in g_track.xpath('./svg:path', namespaces=ns):
     # Compare distances
     dist_start_from = np.linalg.norm([start.real - from_pos[0], start.imag - from_pos[1]])
     dist_end_from = np.linalg.norm([end.real - from_pos[0], end.imag - from_pos[1]])
+    if debug:
+        print(f"Path {path_id}:")
+        print(f"  {from_station} pos: {from_pos}")
+        print(f"  {to_station} pos: {to_pos}")
+        print(f"  start: ({start.real}, {start.imag})")
+        print(f"  end:   ({end.real}, {end.imag})")
+        print(f"  dist_start_from: {dist_start_from}")
+        print(f"  dist_end_from:   {dist_end_from}")
     if dist_start_from > dist_end_from:
         # Reverse path
         path = path.reversed()
         path_elem.set('d', path.d())
+        if debug:
+            print(f"  Path {path_id} reversed!")
 
 # Write back
 with open(SVG_FILE, 'wb') as f:
