@@ -3187,13 +3187,13 @@
 </g>
 <g id="EW">
 <g id="Track_18">
-<path id="EW1-EW2" d="M1350.6 453V408" stroke="#00953B" stroke-width="3"/>
+<path id="EW1-EW2" d="M1350.6 408V453" stroke="#00953B" stroke-width="3"/>
 <path id="EW2-EW1" d="M1348 408.153V453" stroke="#00953B" stroke-width="3"/>
-<path id="EW2-EW3" d="M1350 501.5C1350.18 500.025 1350.6 498.523 1350.6 497V453" stroke="#00953B" stroke-width="3"/>
+<path id="EW2-EW3" d="M1350.6 453C1350.6 498.523 1350.18 500.025 1350 501.5" stroke="#00953B" stroke-width="3"/>
 <path id="EW3-EW2" d="M1347 501.5C1347.22 500.032 1348 498.53 1348 497V453" stroke="#00953B" stroke-width="3"/>
 <path id="EW3-EW4" d="M1351.5 501C1347 513.5 1341 520.5 1330.79 527.833" stroke="#00953B" stroke-width="3"/>
 <path id="EW4-EW3" d="M1329.22 526.254C1336.85 521.414 1346 509.5 1348.5 501" stroke="#00953B" stroke-width="3"/>
-<path id="EW4-EW5" d="M1241.5 531H1316.6C1321.72 531 1326.58 529.928 1330.99 528" stroke="#00953B" stroke-width="3"/>
+<path id="EW4-EW5" d="M1330.99 528C1326.58 529.928 1321.72 531 1316.6 531H1241.5" stroke="#00953B" stroke-width="3"/>
 <path id="EW5-EW4" d="M1241.5 529.4H1316.6C1320.64 529.4 1325.49 527.579 1329 526.096" stroke="#00953B" stroke-width="3"/>
 <path id="EW5-EW6" d="M 1240.5,531.0 L 1219.8,531.0 C 1212.1,531.0 1203.5,534.2 1198.0,539.6 L 1165.68,572.0" stroke="#00953B" stroke-width="3"/>
 <path id="EW6-EW5" d="M1163.86 570.5L1194.3 541C1201 534.3 1209.3 529.4 1218.8 529.4H1241.5" stroke="#00953B" stroke-width="3"/>
