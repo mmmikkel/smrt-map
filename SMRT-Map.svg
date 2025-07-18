@@ -3983,27 +3983,27 @@
 <g id="Track_20">
 <path id="NS28-NS27" d="M891.6 1064.8H867.7C848.2 1064.8 831.7 1049.8 831.7 1029.8V1021" stroke="#E1251B" stroke-width="3"/>
 <path id="NS27-NS28" d="M887.6 1062.2H863.8C847.9 1062.2 834.4 1046.3 834.4 1029.8V1021" stroke="#E1251B" stroke-width="3"/>
-<path id="NS27-NS26" d="M831.7 946.5V1021" stroke="#E1251B" stroke-width="3"/>
+<path id="NS27-NS26" d="M831.7 1021V946.5" stroke="#E1251B" stroke-width="3"/>
 <path id="NS26-NS27" d="M834.4 1021V946.5" stroke="#E1251B" stroke-width="3"/>
-<path id="NS26-NS25" d="M831.295 898C831.562 899.58 831.7 901.186 831.7 902.8V946.5" stroke="#E1271D" stroke-width="3"/>
+<path id="NS26-NS25" d="M831.7 946.5V902.8C831.7 901.186 831.562 899.58 831.295 898" stroke="#E1271D" stroke-width="3"/>
 <path id="NS25-NS26" d="M834.4 946.5V902.8C834.4 901.188 834.289 899.584 834.074 898" stroke="#E1271D" stroke-width="3"/>
 <path id="NS25-NS24" d="M720 781.36L822.8 880.7C827.256 885.076 830.256 890.845 831.295 897" stroke="#E1251B" stroke-width="3"/>
 <path id="NS24-NS25" d="M834 898C832.916 890.05 828.253 882.587 822.5 877L720.052 778" stroke="#E1251B" stroke-width="3"/>
 <path id="NS24-NS23" d="M658.39 721.975L719.39 780.922" stroke="#E1251B" stroke-width="3"/>
 <path id="NS23-NS24" d="M721.662 779.438L660.61 720.44" stroke="#E1251B" stroke-width="3"/>
-<path id="NS23-NS22" d="M619.788 666C620.447 678.736 626.625 690.959 636.5 700.5L659 723.412" stroke="#E1251B" stroke-width="3"/>
+<path id="NS23-NS22" d="M659 723.412L636.5 700.5C626.625 690.959 620.447 678.736 619.788 666" stroke="#E1251B" stroke-width="3"/>
 <path id="NS22-NS23" d="M660 720.002L636.5 697C627.948 688.731 623.125 678.017 622.463 667" stroke="#E1251B" stroke-width="3"/>
-<path id="NS22-NS21" d="M665.682 596.057L633.982 629C623.576 639.824 618.748 654.04 619.47 668" stroke="#E1251B" stroke-width="3"/>
-<path id="NS21-NS22" d="M622.463 666C621.724 653.7 625.922 641.148 635.1 631.6L666.916 598.5" stroke="#E1251B" stroke-width="3"/>
-<path id="NS21-NS20" d="M705.911 553.387L665.441 595.444" stroke="#E1251B" stroke-width="3"/>
+<path id="NS22-NS21" d="M619.47 668C618.748 654.04 623.576 639.824 633.982 629L665.682 596.057" stroke="#E1251B" stroke-width="3"/>
+<path id="NS21-NS22" d="M666.916 598.5L635.1 631.6C625.922 641.148 621.724 653.7 622.463 666" stroke="#E1251B" stroke-width="3"/>
+<path id="NS21-NS20" d="M665.441 595.444L705.911 553.387" stroke="#E1251B" stroke-width="3"/>
 <path id="NS20-NS21" d="M708.058 554.893L667.474 597.114" stroke="#E1251B" stroke-width="3"/>
 <path id="NS20-NS19" d="M706 553.5L726.5 532.5C731.8 527 734.3 518.9 734.3 511.2V497" stroke="#E1251B" stroke-width="3"/>
 <path id="NS19-NS20" d="M736.9 497V511.2C736.9 520.6 733.3 529.4 726.8 536.2L708 555" stroke="#E1251B" stroke-width="3"/>
-<path id="NS19-NS18" d="M734.3 448.5V497" stroke="#E1251B" stroke-width="3"/>
+<path id="NS19-NS18" d="M734.3 497V448.5" stroke="#E1251B" stroke-width="3"/>
 <path id="NS18-NS19" d="M736.9 448.5V497" stroke="#E1251B" stroke-width="3"/>
-<path id="NS18-NS17" d="M734.3 414.5V448.5" stroke="#E1251B" stroke-width="3"/>
+<path id="NS18-NS17" d="M734.3 448.5V414.5" stroke="#E1251B" stroke-width="3"/>
 <path id="NS17-NS18" d="M736.9 414.5V448.5" stroke="#E1251B" stroke-width="3"/>
-<path id="NS17-NS16" d="M734.3 356.5V414.5" stroke="#E1251B" stroke-width="3"/>
+<path id="NS17-NS16" d="M734.3 414.5V356.5" stroke="#E1251B" stroke-width="3"/>
 <path id="NS16-NS17" d="M736.9 356.5V414.5" stroke="#E1251B" stroke-width="3"/>
 <path id="NS16-NS15" d="M734.3 305.5V356.5" stroke="#E1251B" stroke-width="3"/>
 <path id="NS15-NS16" d="M736.9 305.5V356.5" stroke="#E1251B" stroke-width="3"/>
