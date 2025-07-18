@@ -2925,9 +2925,9 @@
 <g id="NE">
 <g id="Track_17">
 <path id="NE18-NE17" d="M1143.45 214.153L1116.0 242.0" stroke="#9E28B5" stroke-width="3"/>
-<path id="NE17-NE18" d="M1142 213.5L1114 241" stroke="#9E28B5" stroke-width="3"/>
+<path id="NE17-NE18" d="M1114 241L1142 213.5" stroke="#9E28B5" stroke-width="3"/>
 <path id="NE17-NE16" d="M1115.99 242.186L1038.57 319.586" stroke="#9E28B5" stroke-width="3"/>
-<path id="NE16-NE17" d="M1114.11 240.314L1035.91 318.489" stroke="#9E28B5" stroke-width="3"/>
+<path id="NE16-NE17" d="M1035.91 318.489L1114.11 240.314" stroke="#9E28B5" stroke-width="3"/>
 <path id="NE16-NE15" d="M1036.39 322.415L1007.41 351.381" stroke="#9E28B5" stroke-width="3"/>
 <path id="NE15-NE16" d="M1039.09 315.661L1010.66 344.086" stroke="#9E28B5" stroke-width="3"/>
 <path id="NE15-NE14" d="M1007.41 351.38L976.414 382.371" stroke="#9E28B5" stroke-width="3"/>
