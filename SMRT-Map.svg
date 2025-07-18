@@ -3982,7 +3982,7 @@
 <g id="NS">
 <g id="Track_20">
 <path id="NS28-NS27" d="M891.6 1064.8H867.7C848.2 1064.8 831.7 1049.8 831.7 1029.8V1021" stroke="#E1251B" stroke-width="3"/>
-<path id="NS27-NS28" d="M887.6 1062.2H863.8C847.9 1062.2 834.4 1046.3 834.4 1029.8V1021" stroke="#E1251B" stroke-width="3"/>
+<path id="NS27-NS28" d="M834.4 1021V1029.8C834.4 1046.3 847.9 1062.2 863.8 1062.2H887.6" stroke="#E1251B" stroke-width="3"/>
 <path id="NS27-NS26" d="M831.7 1021V946.5" stroke="#E1251B" stroke-width="3"/>
 <path id="NS26-NS27" d="M834.4 1021V946.5" stroke="#E1251B" stroke-width="3"/>
 <path id="NS26-NS25" d="M831.7 946.5V902.8C831.7 901.186 831.562 899.58 831.295 898" stroke="#E1271D" stroke-width="3"/>
