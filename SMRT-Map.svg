@@ -3188,7 +3188,7 @@
 <g id="EW">
 <g id="Track_18">
 <path id="EW1-EW2" d="M1350.6 408V453" stroke="#00953B" stroke-width="3"/>
-<path id="EW2-EW1" d="M1348 408.153V453" stroke="#00953B" stroke-width="3"/>
+<path id="EW2-EW1" d="M1348 453V408.153" stroke="#00953B" stroke-width="3"/>
 <path id="EW2-EW3" d="M1350.6 453C1350.6 498.523 1350.18 500.025 1350 501.5" stroke="#00953B" stroke-width="3"/>
 <path id="EW3-EW2" d="M1347 501.5C1347.22 500.032 1348 498.53 1348 497V453" stroke="#00953B" stroke-width="3"/>
 <path id="EW3-EW4" d="M1351.5 501C1347 513.5 1341 520.5 1330.79 527.833" stroke="#00953B" stroke-width="3"/>
