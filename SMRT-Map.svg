@@ -3255,9 +3255,9 @@
 </g>
 <g id="Track_19">
 <path id="CG-CG1" d="M1357.6 529.9V531.4V561C1357.6 573.5 1368.5 583.8 1381 583.9H1421" stroke="#00953B" stroke-width="1.5"/>
-<path id="CG1-CG2" d="M1471.6 583.9H1421" stroke="#00953B" stroke-width="1.5"/>
+<path id="CG1-CG2" d="M1421 583.9H1471.6" stroke="#00953B" stroke-width="1.5"/>
 <path id="CG2-CG1" d="M1471.6 587.3H1421" stroke="#00953B" stroke-width="1.5"/>
-<path id="CG1-CG" d="M1354 531.2V535.2V561C1354 575 1366.5 587 1379.9 587.3H1421" stroke="#00953B" stroke-width="1.5"/>
+<path id="CG1-CG" d="M1421 587.3H1379.9C1366.5 587 1354 575 1354 561V535.2V531.2" stroke="#00953B" stroke-width="1.5"/>
 </g>
 <g data-name="Tiong Bahru" id="Station-EW17">
 <rect fill="white" fill-opacity="0.01" height="13.4" transform="translate(511.199 856.7)" width="86.5013"/>
