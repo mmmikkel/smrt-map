@@ -150,32 +150,32 @@
 <path id="TE23-TE24" d="M1140.49 902.085L1171.59 870.985" stroke="#9D5918" stroke-width="3"/>
 <path id="TE23-TE22" d="M1137.41 907.314L1060.41 984.314" stroke="#9D5918" stroke-width="3"/>
 <path id="TE22-TE23" d="M1061.5 981.5L1140.49 902.085" stroke="#9D5918" stroke-width="3"/>
-<path id="TE22-TE20" d="M868 1021.2H1009.8C1019.5 1021.2 1028.6 1017.5 1035.5 1010.6L1063 983.1" stroke="#9D5918" stroke-width="3"/>
+<path id="TE22-TE20" d="M1063 983.1L1035.5 1010.6C1028.6 1017.5 1019.5 1021.2 1009.8 1021.2H868" stroke="#9D5918" stroke-width="3"/>
 <path id="TE20-TE22" d="M869 1019.8H1010.9C1019.4 1019.8 1027.4 1016.5 1033.4 1010.5L1060.9 983" stroke="#9D5918" stroke-width="3"/>
 <path id="TE20-TE19" d="M868 1021.2H816.5C806.8 1021.2 797.7 1017.4 790.9 1010.6L780 999.7" stroke="#9D5918" stroke-width="3"/>
-<path id="TE19-TE20" d="M867 1019.8H815.5C807 1019.8 799 1016.5 793 1010.5L782.494 1000" stroke="#9D5918" stroke-width="3"/>
-<path id="TE19-TE18" d="M706.214 925.086L781.414 1000.29" stroke="#9D5918" stroke-width="3"/>
-<path id="TE18-TE19" d="M783.081 1000.41L708.041 925.415" stroke="#9D5918" stroke-width="3"/>
-<path id="TE18-TE17" d="M677.415 896.286L706.215 925.086" stroke="#9D5918" stroke-width="3"/>
-<path id="TE17-TE18" d="M708.04 925.415L679.086 896.477" stroke="#9D5918" stroke-width="3"/>
+<path id="TE19-TE20" d="M782.494 1000L793 1010.5C799 1016.5 807 1019.8 815.5 1019.8H867" stroke="#9D5918" stroke-width="3"/>
+<path id="TE19-TE18" d="M781.414 1000.29L706.214 925.086" stroke="#9D5918" stroke-width="3"/>
+<path id="TE18-TE19" d="M708.041 925.415L783.081 1000.41" stroke="#9D5918" stroke-width="3"/>
+<path id="TE18-TE17" d="M706.215 925.086L677.415 896.286" stroke="#9D5918" stroke-width="3"/>
+<path id="TE17-TE18" d="M679.086 896.477L708.04 925.415" stroke="#9D5918" stroke-width="3"/>
 <path id="TE17-TE16" d="M678 897.7L608.5 828C601.7 821.2 597.7 812.1 597.7 802.4V760" stroke="#9D5918" stroke-width="3"/>
-<path id="TE16-TE17" d="M677.5 895.062L608 825C602 819 599 811 599 802.5V760" stroke="#9D5918" stroke-width="3"/>
-<path id="TE16-TE15" d="M597.7 714V760" stroke="#9D5918" stroke-width="3"/>
-<path id="TE15-TE16" d="M599.1 760V714" stroke="#9D5918" stroke-width="3"/>
-<path id="TE15-TE14" d="M597.7 665.5V714" stroke="#9D5918" stroke-width="3"/>
-<path id="TE14-TE15" d="M599.1 714V665.5" stroke="#9D5918" stroke-width="3"/>
-<path id="TE14-TE13" d="M597.7 628V665.5" stroke="#9D5918" stroke-width="3"/>
-<path id="TE13-TE14" d="M599.1 665.5V628" stroke="#9D5918" stroke-width="3"/>
-<path id="TE13-TE12" d="M597.7 589V628" stroke="#9D5918" stroke-width="3"/>
-<path id="TE12-TE13" d="M599.1 628V589" stroke="#9D5918" stroke-width="3"/>
-<path id="TE12-TE11" d="M597.7 546.5V589" stroke="#9D5918" stroke-width="3"/>
-<path id="TE11-TE12" d="M599.1 589V546.5" stroke="#9D5918" stroke-width="3"/>
-<path id="TE11-TE9" d="M597.7 447.9V546.5" stroke="#9D5918" stroke-width="3"/>
-<path id="TE9-TE11" d="M599.1 546.5V447.9" stroke="#9D5918" stroke-width="3"/>
-<path id="TE9-TE8" d="M597.6 407V458.799" stroke="#9D5918" stroke-width="3"/>
-<path id="TE8-TE9" d="M599.1 458.799V407" stroke="#9D5918" stroke-width="3"/>
+<path id="TE16-TE17" d="M599 760V802.5C599 811 602 819 608 825L677.5 895.062" stroke="#9D5918" stroke-width="3"/>
+<path id="TE16-TE15" d="M597.7 760V714" stroke="#9D5918" stroke-width="3"/>
+<path id="TE15-TE16" d="M599.1 714V760" stroke="#9D5918" stroke-width="3"/>
+<path id="TE15-TE14" d="M597.7 714V665.5" stroke="#9D5918" stroke-width="3"/>
+<path id="TE14-TE15" d="M599.1 665.5V714" stroke="#9D5918" stroke-width="3"/>
+<path id="TE14-TE13" d="M597.7 665.5V628" stroke="#9D5918" stroke-width="3"/>
+<path id="TE13-TE14" d="M599.1 628V665.5" stroke="#9D5918" stroke-width="3"/>
+<path id="TE13-TE12" d="M597.7 628V589" stroke="#9D5918" stroke-width="3"/>
+<path id="TE12-TE13" d="M599.1 589V628" stroke="#9D5918" stroke-width="3"/>
+<path id="TE12-TE11" d="M597.7 589V546.5" stroke="#9D5918" stroke-width="3"/>
+<path id="TE11-TE12" d="M599.1 546.5V589" stroke="#9D5918" stroke-width="3"/>
+<path id="TE11-TE9" d="M597.7 546.5V447.9" stroke="#9D5918" stroke-width="3"/>
+<path id="TE9-TE11" d="M599.1 447.9V546.5" stroke="#9D5918" stroke-width="3"/>
+<path id="TE9-TE8" d="M597.6 458.799V407" stroke="#9D5918" stroke-width="3"/>
+<path id="TE8-TE9" d="M599.1 407V458.799" stroke="#9D5918" stroke-width="3"/>
 <path id="TE8-TE7" d="M597.6 407V391.1C597.6 383.2 594.6 375.8 589.1 370.1L570.5 350.689" stroke="#9D5918" stroke-width="3"/>
-<path id="TE7-TE8" d="M599.1 409V393.1C599.1 384 595.7 375.4 589.4 368.9L571 349.698" stroke="#9D5918" stroke-width="3"/>
+<path id="TE7-TE8" d="M571 349.698L589.4 368.9C595.7 375.4 599.1 384 599.1 393.1V409" stroke="#9D5918" stroke-width="3"/>
 <path id="TE7-TE6" d="M570.5 350.5L542.17 320.883" stroke="#9D5918" stroke-width="3"/>
 <path id="TE6-TE7" d="M538.444 315.006L571 349" stroke="#9D5918" stroke-width="3"/>
 <path id="TE6-TE5" d="M542.17 320.883L511.507 288.883" stroke="#9D5918" stroke-width="3"/>
