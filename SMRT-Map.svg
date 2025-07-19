@@ -1495,15 +1495,15 @@
 <g id="BP">
 <g id="Track_9">
 <path id="BP6-BP13" d="M369.8 337.3V322.6C369.7 316.9 366.1 308.9 361.9 305.1L355.5 299.3C354.446 298.337 353.434 297.149 352.5 295.815" stroke="#718472" stroke-width="1.5"/>
-<path id="BP13-BP6" d="M370.6 337.3V322.6L369.7 316.4C368.3 311.5 365.5 306.5 362.3 303.6L355.9 297.8C354.887 296.905 353.918 295.776 353.03 294.5" stroke="#718472" stroke-width="1.5"/>
-<path id="BP13-BP12" d="M347.1 272.5V280.4C347.1 285.179 349.358 291.325 352.5 295.815" stroke="#718472" stroke-width="1.5"/>
-<path id="BP12-BP13" d="M353.03 294.5C350.145 290.358 348.1 284.657 348.1 280.3V272.5" stroke="#718472" stroke-width="1.5"/>
+<path id="BP13-BP6" d="M353.03 294.5C353.918 295.776 354.887 296.905 355.9 297.8L362.3 303.6C365.5 306.5 368.3 311.5 369.7 316.4L370.6 322.6V337.3" stroke="#718472" stroke-width="1.5"/>
+<path id="BP13-BP12" d="M352.5 295.815C349.358 291.325 347.1 285.179 347.1 280.4V272.5" stroke="#718472" stroke-width="1.5"/>
+<path id="BP12-BP13" d="M348.1 272.5V280.3C348.1 284.657 350.145 290.358 353.03 294.5" stroke="#718472" stroke-width="1.5"/>
 <path id="BP12-BP11" d="M347.1 272.5V249" stroke="#718472" stroke-width="1.5"/>
-<path id="BP11-BP12" d="M348.1 249V272.5" stroke="#718472" stroke-width="1.5"/>
+<path id="BP11-BP12" d="M348.1 272.5V249" stroke="#718472" stroke-width="1.5"/>
 <path id="BP11-BP10" d="M347.1 249V237.5C347.1 231 351.9 225.8 358.5 225.8H370.6" stroke="#718472" stroke-width="1.5"/>
 <path id="BP10-BP11" d="M348.1 248V236.6C348.1 231.2 352.5 226.7 358 226.7H369.65" stroke="#718472" stroke-width="1.5"/>
 <path id="BP10-BP9" d="M370.6 225.8H383C389.5 225.8 394.1 230.4 394.1 237V249" stroke="#718472" stroke-width="1.5"/>
-<path id="BP9-BP10" d="M371.65 226.7H383.3C388.7 226.7 393.2 231.1 393.2 236.6V248" stroke="#718472" stroke-width="1.5"/>
+<path id="BP9-BP10" d="M393.2 248V236.6C393.2 231.1 388.7 226.7 383.3 226.7H371.65" stroke="#718472" stroke-width="1.5"/>
 <path id="BP9-BP8" d="M394.1 249V272.5" stroke="#718472" stroke-width="1.5"/>
 <path id="BP8-BP9" d="M393.2 272.5V249" stroke="#718472" stroke-width="1.5"/>
 <path id="BP8-BP7" d="M388.204 296.5C391.601 291.967 394.1 285.427 394.1 280.4V272.5" stroke="#718472" stroke-width="1.5"/>
@@ -1513,7 +1513,7 @@
 <g id="Track_10">
 <path id="BP6-BP5" d="M370.3 334.8H321" stroke="#718472" stroke-width="1.5"/>
 <path id="BP5-BP6" d="M321 333.7H370.3" stroke="#718472" stroke-width="1.5"/>
-<path id="BP5-BP4" d="M284.4 371V344.7C284.4 339.2 288.8 334.8 294.3 334.7H321" stroke="#718472" stroke-width="1.5"/>
+<path id="BP5-BP4" d="M321 334.7H294.3C288.8 334.8 284.4 339.2 284.4 344.7V371" stroke="#718472" stroke-width="1.5"/>
 <path id="BP4-BP5" d="M283.4 372V345.7C283.4 339.2 288.7 333.8 295.3 333.8H322" stroke="#718472" stroke-width="1.5"/>
 <path id="BP4-BP3" d="M284.4 371V406" stroke="#718472" stroke-width="1.5"/>
 <path id="BP3-BP4" d="M283.4 406V371" stroke="#718472" stroke-width="1.5"/>
