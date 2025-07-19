@@ -4059,9 +4059,9 @@
 <path id="NS10-NS11" d="M490 189.2H557" stroke="#E1251B" stroke-width="3"/>
 <path id="NS10-NS9" d="M490 191.8H405.5" stroke="#E1251B" stroke-width="3"/>
 <path id="NS9-NS10" d="M405.5 189.2H490" stroke="#E1251B" stroke-width="3"/>
-<path id="NS9-NS8" d="M306.5 212.119C323.705 199.955 345.687 191.8 368.3 191.8H405.5" stroke="#E1251B" stroke-width="3"/>
+<path id="NS9-NS8" d="M405.5 191.8H368.3C345.687 191.8 323.705 199.955 306.5 212.119" stroke="#E1251B" stroke-width="3"/>
 <path id="NS8-NS9" d="M304.264 210C322.618 196.907 345.07 189.2 369.3 189.2H405.5" stroke="#E1251B" stroke-width="3"/>
-<path id="NS8-NS7" d="M260.7 305.5V299.4C260.7 263.812 280.423 230.263 307.5 211.119" stroke="#E1251B" stroke-width="3"/>
+<path id="NS8-NS7" d="M307.5 211.119C280.423 230.263 260.7 263.812 260.7 299.4V305.5" stroke="#E1251B" stroke-width="3"/>
 <path id="NS7-NS8" d="M258.1 305.5V299.4C258.1 261.73 277.729 229.356 306.264 209" stroke="#E1251B" stroke-width="3"/>
 <path id="NS7-NS5" d="M260.7 305.5V388.2" stroke="#E1251B" stroke-width="3"/>
 <path id="NS5-NS7" d="M258.1 388.2V305.5" stroke="#E1251B" stroke-width="3"/>
