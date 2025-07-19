@@ -187,7 +187,7 @@
 <path id="TE3-TE2" d="M451.139 225.884L423.556 197.099" stroke="#9D5918" stroke-width="3"/>
 <path id="TE2-TE3" d="M419.944 191.339L447.444 220.038" stroke="#9D5918" stroke-width="3"/>
 <path id="TE2-TE1" d="M367.344 138.916L420.444 194.331" stroke="#9D5918" stroke-width="3"/>
-<path id="TE1-TE2" d="M422.056 194.107L368.756 138.483" stroke="#9D5918" stroke-width="3"/>
+<path id="TE1-TE2" d="M368.756 138.483L422.056 194.107" stroke="#9D5918" stroke-width="3"/>
 </g>
 <g data-name="Tanjong Rhu" id="Station-TE23">
 <rect fill="white" fill-opacity="0.01" height="13.4" transform="translate(1127.4 897.5)" width="87.6002"/>
