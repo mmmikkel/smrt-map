@@ -829,6 +829,7 @@
 <path id="SE1-SE2" d="M1109.91 348.186L1129.41 367.686" stroke="#718472" stroke-width="1.5"/>
 <path id="SE1-STC" d="M1109.5 349.6L1102.5 342.6C1098.5 338.6 1090.3 335.5 1084.6 335.7L1076 336.1C1071.7 336.2 1066.2 334.6 1061.8 332.2L1056.8 328.6L1049.6 321.4L1046.4 318.2" stroke="#718472" stroke-width="1.5"/>
 <path id="STC-SE1" d="M1047.7 317.8L1058.1 328.2C1062.1 332.2 1070.4 335.3 1076 335.1L1084.6 334.7C1090.9 334.4 1099.5 337.7 1103.9 342.2L1111 349.3" stroke="#718472" stroke-width="1.5"/>
+</g>
 <g data-name="Cheng Lim" id="Station-SW1">
 <rect fill="white" fill-opacity="0.01" height="10.8" transform="translate(1010.7 253.9)" width="57.3"/>
 <g id="Group-SW1">
