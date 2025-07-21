@@ -2,8 +2,8 @@ from lxml import etree
 from svgpathtools import parse_path, Path, Line, CubicBezier, QuadraticBezier
 import numpy as np
 
-INPUT_SVG = 'SMRT-Map.svg'
-OUTPUT_SVG = 'SMRT-Map-curved-rails.svg'
+INPUT_SVG = 'sg-mrt-map.svg'
+OUTPUT_SVG = 'sg-mrt-map-curved-rails.svg'
 STROKE_WIDTH = 3
 OFFSET = 2
 

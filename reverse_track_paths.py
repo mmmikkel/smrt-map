@@ -3,7 +3,7 @@ from svgpathtools import parse_path, Path
 import numpy as np
 import re
 
-SVG_FILE = 'SMRT-Map.svg'
+SVG_FILE = 'sg-mrt-map.svg'
 
 # Helper: get the first geometric child position from a <g id="Group-XXX">
 def get_station_pos(group_elem):
