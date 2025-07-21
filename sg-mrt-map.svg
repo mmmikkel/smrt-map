@@ -4096,7 +4096,7 @@
 <path id="NS28-NS27" d="M891.6 1064.8H867.7C848.2 1064.8 831.7 1049.8 831.7 1029.8V1021" stroke="#E1251B" stroke-width="3"/>
 <path id="NS27-NS28" d="M834.4 1021V1029.8C834.4 1046.3 847.9 1062.2 863.8 1062.2H887.6" stroke="#E1251B" stroke-width="3"/>
 <path id="NS27-NS26" d="M831.7 1021V946.5" stroke="#E1251B" stroke-width="3"/>
-<path id="NS26-NS27" d="M834.4 1021V946.5" stroke="#E1251B" stroke-width="3"/>
+<path id="NS26-NS27" d="M834.4 946.5V1021" stroke="#E1251B" stroke-width="3"/>
 <path id="NS26-NS25" d="M831.7 946.5V902.8C831.7 901.186 831.562 899.58 831.295 898" stroke="#E1271D" stroke-width="3"/>
 <path id="NS25-NS26" d="M834.074 898C834.289 899.584 834.4 901.188 834.4 902.8V946.5" stroke="#E1271D" stroke-width="3"/>
 <path id="NS25-NS24" d="M831.295 897C830.256 890.845 827.256 885.076 822.8 880.7L720 781.36" stroke="#E1251B" stroke-width="3"/>
