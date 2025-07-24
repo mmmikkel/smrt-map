@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" height="1182" viewBox="0 0 1574 1182" width="1574">
-<g id="SMRT-Map">
+<g id="sg-mrt-map" transform="translate(-30.6,-37)">
 <rect fill="#DCEBF1" height="1181.1" width="1573.4"/>
 <g id="Map">
 <path d="M736.8 1167.3C746.6 1174.1 744.9 1179.8 732.9 1179.9L584.6 1181.1C572.6 1181.1 555.9 1174.3 547.6 1165.7L511.5 1129C503.1 1120.5 506 1113.5 518 1113.5H649.5C655.7 1113.5 661.7 1115.4 666.8 1118.9L736.8 1167.3Z" fill="white" id="Sentosa Island"/>
