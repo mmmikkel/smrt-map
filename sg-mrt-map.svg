@@ -132,10 +132,10 @@
 </g>
 <g id="TE">
 <g id="Track_2">
-<path id="TE31-TE30" d="M1384.01 660.714L1345.91 698.814" stroke="#9D5918" stroke-width="3"/>
-<path id="TE30-TE31" d="M1349.59 692.986L1387.89 654.686" stroke="#9D5918" stroke-width="3"/>
-<path id="TE30-TE29" d="M1344.91 698.814L1315.41 728.314" stroke="#9D5918" stroke-width="3"/>
-<path id="TE29-TE30" d="M1319.09 722.485L1348.59 692.985" stroke="#9D5918" stroke-width="3"/>
+<path id="TE31-TE30" d="M1384.01 660.714L1345.91 698.814" stroke="#9D5918" stroke-width="2"/>
+<path id="TE30-TE31" d="M1349.59 692.986L1387.89 654.686" stroke="#9D5918" stroke-width="2"/>
+<path id="TE30-TE29" d="M1344.91 698.814L1315.41 728.314" stroke="#9D5918" stroke-width="2"/>
+<path id="TE29-TE30" d="M1319.09 722.485L1348.59 692.985" stroke="#9D5918" stroke-width="2"/>
 <path id="TE29-TE28" d="M1316.41 728.314L1289.91 754.814" stroke="#9D5918" stroke-width="3"/>
 <path id="TE28-TE29" d="M1293.49 749.085L1320.09 722.485" stroke="#9D5918" stroke-width="3"/>
 <path id="TE28-TE27" d="M1289.91 754.814L1259.91 784.814" stroke="#9D5918" stroke-width="3"/>
